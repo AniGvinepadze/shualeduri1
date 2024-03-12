@@ -1,0 +1,201 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #d4f1f4;
+}
+.maincontainer {
+  box-sizing: border-box;
+  border: 1px solid #75f;
+  border-radius: 32px;
+  background: linear-gradient(180deg, #75f, #6943ff, #593df9, #2f2ce9);
+  margin: 368px 1px;
+  width: 368px;
+  height: 512px;
+  text-align: center;
+  font-family: "Hanken Grotesk", sans-serif;
+}
+.yourresult {
+  color: #cac9ff;
+  font-weight: 700;
+  font-size: 24px;
+  margin-top: 38px;
+}
+.littleborder {
+  width: 200px;
+  height: 200px;
+  border: 1px solid #4d21c9;
+  background: linear-gradient(180deg, #4d21c9, #2521c900, #2521c900);
+  border-radius: 350px;
+  box-sizing: border-box;
+  margin-left: 80px;
+  margin-top: 20px;
+}
+.number {
+  font-weight: 700;
+  font-size: 72px;
+  color: #ffffff;
+  margin-top: 65px;
+}
+.ofhundred {
+  font-weight: 700;
+  font-size: 18px;
+  color: #cac9ff;
+  margin-top: -40px;
+}
+.Great {
+  font-weight: 700;
+  font-size: 32px;
+  color: #ffffff;
+  margin-top: 35px;
+}
+.lorem {
+  font-weight: 500;
+  font-size: 18px;
+  color: #cac9ff;
+  margin: 20px;
+}
+.whitecontainer {
+  width: 368px;
+  height: 512px;
+  display: flex;
+  border: 1px solid white;
+  background-color: #ffffff;
+  border-radius: 32px;
+  box-sizing: border-box;
+  margin: -460px 380px;
+  font-family: "Hanken Grotesk", sans-serif;
+}
+.summary {
+  color: #303b59;
+  font-weight: 700;
+  font-size: 24px;
+  width: 104px;
+  height: 31px;
+  margin: 30px;
+  margin-left: 30px;
+}
+.Reaction {
+  box-sizing: border-box;
+  border: 1px;
+  border-radius: 10px;
+  background-color: #fae8e8;
+  color: #ff5555;
+  font-weight: 500;
+  font-size: 18px;
+  width: 288px;
+  height: 56px;
+  text-align: left;
+  margin-left: 30px;
+  padding: 15px;
+}
+.eighty {
+  color: #303b59;
+  font-weight: 700;
+  font-size: 18px;
+  width: 21px;
+  height: 23px;
+  margin-left: 80px;
+}
+.slashone {
+  color: gray;
+  font-weight: 700;
+  font-size: 18px;
+}
+.memory {
+  border: 1px solid hwb(hue white black);
+  box-sizing: border-box;
+  border-radius: 10px;
+  background-color: hwb(65 94% 1%);
+  width: 288px;
+  height: 56px;
+  color: #ffb21e;
+  text-align: left;
+  font-weight: 500;
+  font-size: 18px;
+  margin: 16px 30px;
+  padding: 17px;
+}
+.nintytwo {
+  color: #303b59;
+  font-weight: 700;
+  font-size: 18px;
+  margin-left: 80px;
+}
+.slashtwo {
+  font-weight: 700;
+  font-size: 18px;
+  color: gray;
+}
+.verbal {
+  border: 1px solid #eafce0;
+  box-sizing: border-box;
+  border-radius: 10px;
+  background-color: #eafce0;
+  width: 288px;
+  height: 56px;
+  text-align: left;
+  font-weight: 500;
+  font-size: 18px;
+  color: #00bb8f;
+  margin-left: 30px;
+  padding: 17px;
+}
+.sixstyone {
+  font-weight: 700;
+  font-size: 18px;
+  color: #303b59;
+  margin-left: 95px;
+}
+.slashthree {
+  font-weight: 700;
+  font-size: 18px;
+  color: gray;
+}
+.visual {
+  border: 1px solid #d5dcfb;
+  box-sizing: border-box;
+  border-radius: 10px;
+  background-color: #d5dcfb;
+  width: 288px;
+  height: 56px;
+  text-align: left;
+  font-weight: 500;
+  font-size: 18px;
+  color: #1125d6;
+  margin: 16px 30px;
+  padding: 17px;
+}
+.seventythree {
+  font-weight: 700;
+  font-size: 18px;
+  color: #303b59;
+  margin-left: 90px;
+}
+.slashfour {
+  color: gray;
+  font-weight: 700;
+  font-size: 18px;
+}
+.button {
+  width: 288px;
+  height: 56px;
+  color: white;
+  background-color: #303b59;
+  font-size: 18px;
+  font-weight: 400;
+  border-radius: 128px;
+  margin-left: 10px;
+}
+img {
+  margin-right: 12px;
+}
+.box {
+  width: 500px;
+  height: 512px;
+  border-radius: 32px;
+  background-color: white;
+  margin: 368px 270px;
+}
